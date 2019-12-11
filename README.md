@@ -23,3 +23,13 @@ We have prepaired a mock of a backend. It is available at: http://mockbcknd.tk
 
 ## Prizes
 The best team receives 4 Nintendo Switches!
+
+## Diversity Heroes Challenge
+Diversity drives innovation. Diverse teams challenge each other more leading to better solutions. We want to know how you leveraged your diversity to complete a challenge at TechCrunch Disrupt. And here's the thing, it doesn't even have to be the TomTom challenge. We want to celebrate teams that harness the power of differences.
+
+## Submission will be judged based on:
+A written submission from the team describing how they leveraged diversity to tackle a complex challenge. Diversity means many things and we will leave it to you to define it. Did your team have members of different cultures, gender, technical skills, educational background? Let us know hope it helped you! 
+Send your statement to nicole.blake@tomtom.com
+
+## Prizes:
+The winning team will win epic LEGO sets of diverse teams.
