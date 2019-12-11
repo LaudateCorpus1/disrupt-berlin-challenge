@@ -1,6 +1,6 @@
-# TechCrunch Disrupt Berlin 2019 TomTom Hackathon Challange
+# TechCrunch Disrupt Berlin 2019 TomTom Hackathon Challenge
 
-## Challange requirements
+## Challenge requirements
 **Build the next Uber for…**
 Delivering food, parcels or groceries. Getting a ride or getting someone to come and fix your bike. Location technology can add so much to the services we use everyday.
 Your challenge, should you accept it, is to use the TomTom Maps APIs (and combine it with other services) to build an innovative on-demand service.
